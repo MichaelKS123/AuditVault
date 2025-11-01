@@ -1076,10 +1076,9 @@ SOFTWARE.
 
 **Michael Semera**
 
-- 🌐 Portfolio: [michaelsemera.com](https://michaelsemera.com)
-- 💼 LinkedIn: [linkedin.com/in/michaelsemera](https://linkedin.com/in/michaelsemera)
-- 🐙 GitHub: [@michaelsemera](https://github.com/michaelsemera)
-- 📧 Email: michael.semera@example.com
+- 💼 LinkedIn: [Michael Semera](https://www.linkedin.com/in/michael-semera-586737295/)
+- 🐙 GitHub: [@MichaelKS123](https://github.com/MichaelKS123)
+- 📧 Email: michaelsemera15@gmail.com
 
 ---
 
@@ -1863,4 +1862,5 @@ npm test
 **Version**: 1.0.0  
 **Last Updated**: November 1, 2025  
 **Status**: Production Ready ✅  
+
 **License**: MIT
